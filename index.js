@@ -925,6 +925,7 @@ function animationFrame(scene, lastTime) {
     $.getJSON(resource_path + "songs/" + next + ".json?" + (Date.now() % 100000), function(newdata, status){
       if (status == "success") {
         scene.song = newdata;
+        $("#song-description")[0].innerHTML = scene.song.description;
         normalizeSongData(scene.song);
         loadAudio(scene);
         loadGraph(scene);
