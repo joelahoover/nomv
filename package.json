@@ -4,7 +4,7 @@
   "description": "A Node-Based Music Visualizer Framework",
   "main": "index.js",
   "author": "Joel Hoover <joelahoover@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "contributors": [],
   "repository": {
     "type": "git",
