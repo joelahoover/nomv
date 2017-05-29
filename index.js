@@ -1,4 +1,6 @@
 
+$ = require('jquery');
+
 exports.ds = {};
 
 exports.run = function(resource_path) {
