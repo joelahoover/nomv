@@ -1,6 +1,6 @@
 {
   "name": "nomv",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Node-Based Music Visualizer Framework",
   "main": "index.js",
   "author": "Joel Hoover <joelahoover@gmail.com>",
