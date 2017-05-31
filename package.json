@@ -5,7 +5,16 @@
   "main": "index.js",
   "author": "Joel Hoover <joelahoover@gmail.com>",
   "license": "MIT",
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Max Milne",
+      "email": "mjm686@cornell.edu"
+    },
+    {
+      "name": "Roger Rojas",
+      "email": "tempidev4@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/joelhoover/nomv"
